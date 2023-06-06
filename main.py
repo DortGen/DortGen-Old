@@ -41,6 +41,7 @@ def title():
 
 def create_outlook():
     debug = True
+    # Just incase you're retarded this is just the same as "while True:"
     while f"""I like sugar, and I like tea
 But I don't like niggers...no siree!
 There's two known things that'll make me puke
