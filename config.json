@@ -1,0 +1,185 @@
+{
+  "productId": "CFQ7TTC0KGQ8",
+  "productAvailabilityId": "",
+  "skuId": "0002",
+  "endpoint": "ar",
+  "product": "PC Game Pass",
+  "cvv-webhook": "",
+  "paid-webhook": "",
+  "linked-webhook": "",
+  "declined-webhook": "",
+  "bin-check": true,
+  "addresses": {
+    "th": {
+      "addressType": "billing",
+      "city": "the city",
+      "region": "thailand",
+      "country": "th",
+      "range": [
+        10000,
+        99999
+      ]
+    },
+    "pa": {
+      "address_line1": "2182 Jew St",
+      "addressType": "billing",
+      "postal_code": "1818",
+      "region": "Panama",
+      "city": "Panama",
+      "range": [
+        1000,
+        9999
+      ]
+    },
+    "jp": {
+      "addressType": "billing",
+      "region": "gunmaken",
+      "city": "Gunmaken",
+      "range": [
+        1289281,
+        9289281
+      ]
+    },
+    "om": {
+      "address_line1": "2182 Jew St",
+      "addressType": "billing",
+      "postal_code": "1818",
+      "region": "Oman",
+      "city": "Panama",
+      "range": [
+        100,
+        999
+      ]
+    },
+    "ar": {
+      "postal_code": "B1818",
+      "address_line1": "2182 Jew St",
+      "city": "Tel Aviv",
+      "addressType": "billing",
+      "region": "Buenos Aires",
+      "range": null
+    },
+    "za": {
+      "address_line1": "2182 Jew St",
+      "postal_code": "1337",
+      "city": "Tel Aviv",
+      "addressType": "billing",
+      "range": [
+        1000,
+        9999
+      ]
+    },
+    "il": {
+      "address_line1": "2182 Jew St",
+      "postal_code": "5800001",
+      "city": "Tel Aviv",
+      "addressType": "billing",
+      "range": [
+        5800001,
+        6800001
+      ]
+    },
+    "ie": {
+      "address_line1": "2182 Jew St",
+      "city": "Tel Aviv",
+      "addressType": "billing",
+      "range": null
+    },
+    "us": {
+      "address_line1": "2182 Jew St",
+      "postal_code": "32779",
+      "city": "Longwood",
+      "region": "fl",
+      "addressType": "billing",
+      "range": [
+        32779,
+        32779
+      ]
+    },
+    "ye": {
+      "address_line1": "2182 Jew St",
+      "city": "Longwood",
+      "addressType": "billing",
+      "range": null
+    },
+    "hm": {
+      "address_line1": "Poop Sock City",
+      "city": "Shid city",
+      "addressType": "billing",
+      "range": [
+        1000,
+        9999
+      ]
+    },
+    "ba": {
+      "address_line1": "Poop Sock City",
+      "city": "Bosnia",
+      "addressType": "billing",
+      "range": [
+        10000,
+        99999
+      ]
+    },
+    "ae": {
+      "address_line1": "2182 Jew St",
+      "postal_code": "00000",
+      "city": "Dubai",
+      "region": "du",
+      "addressType": "billing",
+      "range": [
+        10000,
+        99999
+      ]
+    },
+    "au": {
+      "address_line1": "2182 Jew St",
+      "postal_code": "4869",
+      "city": "Edmonton",
+      "region": "queensland",
+      "addressType": "billing",
+      "range": [
+        4700,
+        4900
+      ]
+    }
+  },
+  "check-bins": [
+    {
+      "bin": "4xxxxx237167xxxx",
+      "exp": "rndm/rndy"
+    }
+  ],
+  "bins": {
+    "ar": [
+      {
+        "bin": "451769010116xxxx",
+        "exp": "11/2028"
+      }
+    ],
+    "ie": [
+      {
+        "bin": "457045755xxxxxxx",
+        "exp": "rndm/rndy"
+      }
+    ],
+    "ye": [
+      {
+        "bin": "5510290078xxxxxx",
+        "exp": "rndm/rndy"
+      }
+    ],
+    "au": [
+      {
+        "bin": "40522152026xxxxx",
+        "exp": "5/2027"
+      }
+    ],
+    "us": [
+      {
+        "bin": "41181012565xxxxx",
+        "exp": "8/2030"
+      }
+    ],
+    "ae": []
+  }
+}
