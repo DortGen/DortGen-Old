@@ -135,9 +135,6 @@ async def main() -> None:
 
 
 def proxy_url() -> str:
-    # PLEASE DO NOT REPEATEDLY CALL THIS FUNCTION,
-    # IT HAS CPU-EXPENSIVE OPERATIONS.
-    # DO `GLOBAL_PROXY = proxy_url()` AT THE TOP OF YOUR FILE.
     return f"socks5://{PROXY_USER}:{PROXY_PASSWORD}@85.202.203.139:{PROXY_PORT}"
 
 
