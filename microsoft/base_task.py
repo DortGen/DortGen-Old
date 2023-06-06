@@ -16,8 +16,7 @@ class BaseTask:
         self.mscv = secrets.token_urlsafe(12)
 
     def _retry_request(self, method: str, url: str, tries: int, *args, **kwargs) -> Response:
-        tried: int = 0
-        while tried < tries:
+        for i in range(tries):
             try:
                 resp = self.session.execute_request(method, url, *args, **kwargs)
                 self.mscv = secrets.token_urlsafe(12)
