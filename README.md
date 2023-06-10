@@ -8,6 +8,6 @@ simply do so and open a PR with proof of it working, make sure your code is as c
 | Features | Status |
 |--|--|
 | Outlook Creation | ✅ (needs good proxies)|
-| FunCaptcha Solver | ✅ (needs good proxies)
+| FunCaptcha Solver | 🚫 (BDA Gen Patched) |
 | Xbox Profile Creation | ✅ |
 | Linking/Buying | 🚫 |
